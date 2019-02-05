@@ -1,0 +1,37 @@
+.contenue{
+	margin-left: 35%;
+	margin-top: 10%;	
+}
+
+.login{
+width: 300px;
+	height: 40px;
+	border-radius: 15px 15px 15px 15px;
+	margin-top: 3%;	
+	color: #000;
+	font-size: 20px;
+	background-color: #B4AF91;
+	
+}
+ 
+.password{
+    width: 300px;
+	height: 40px;
+	border-radius: 15px 15px 15px 15px;
+	margin-top: 3%;	
+	
+	color: #000;
+	font-size: 20px;
+	background-color: #B4AF91;
+
+}
+.connexion{
+	width: 130px;
+	height: 40px;
+	border-radius: 15px 15px 15px 15px;
+	margin-top: 4%;	
+	margin-left: 14%;
+	background-color: blue;
+	font-size: 20px;
+	
+}
